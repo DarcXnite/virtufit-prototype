@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/virtufit-prototype/static/css/main.59d80313.css",
-    "main.js": "/virtufit-prototype/static/js/main.8f9d8342.js",
+    "main.css": "/virtufit-prototype/static/css/main.938083bb.css",
+    "main.js": "/virtufit-prototype/static/js/main.31284639.js",
     "static/media/male.png": "/virtufit-prototype/static/media/male.21692b8f07819f4b2673.png",
     "static/media/female.png": "/virtufit-prototype/static/media/female.69fda4f13de7bf6e4218.png",
     "index.html": "/virtufit-prototype/index.html",
-    "main.59d80313.css.map": "/virtufit-prototype/static/css/main.59d80313.css.map",
-    "main.8f9d8342.js.map": "/virtufit-prototype/static/js/main.8f9d8342.js.map"
+    "main.938083bb.css.map": "/virtufit-prototype/static/css/main.938083bb.css.map",
+    "main.31284639.js.map": "/virtufit-prototype/static/js/main.31284639.js.map"
   },
   "entrypoints": [
-    "static/css/main.59d80313.css",
-    "static/js/main.8f9d8342.js"
+    "static/css/main.938083bb.css",
+    "static/js/main.31284639.js"
   ]
 }
